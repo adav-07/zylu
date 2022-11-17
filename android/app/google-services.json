@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806747717274",
+    "project_id": "zylutech",
+    "storage_bucket": "zylutech.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806747717274:android:aba2bd97567cefe4eb6923",
+        "android_client_info": {
+          "package_name": "com.example.zylutech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806747717274-tt7l3bm7ag5iq69hvjikqr9g65v59meb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZAUTa4UuGUPEqUzuh-5NGD0i0v1gBVhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806747717274-tt7l3bm7ag5iq69hvjikqr9g65v59meb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
